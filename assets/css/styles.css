@@ -20,6 +20,11 @@ body {
 	height: 417px;
 }
 
+.backgroundImage:hover {
+	background-image: url(../img/copano-rickey-uma.png);
+	cursor: crosshair;
+}
+
 h1 {
 font-family: "UnifrakturMaguntia", cursive;
 }
