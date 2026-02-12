@@ -15,7 +15,9 @@ body {
 }
 
 .backgroundImage {
-	background-image: url(../img/ PLACEHOLDER )
+	background-image: url(../img/copano-rickey.jpg);
+	width: 576px;
+	height: 417px;
 }
 
 h1 {
